@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "窓-ココロ-ひらこう",
+  "base_artist": "あいね from BEST FRIENDS！",
+  "createdAt": "2025-12-24T09:04:49.177442Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "窓-ココロ-ひらこう",
+      "artist": "あいね from BEST FRIENDS!",
+      "has_synced": false,
+      "path": "select/pl_01_窓-ココロ-ひらこう_あいね_from_BEST_FRIENDS!.txt"
+    }
+  ]
+}
